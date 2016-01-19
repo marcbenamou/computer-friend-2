@@ -17,3 +17,12 @@ PRINT "Here you go.By the way its pixelated!"
 IF answer$ = "no" THEN
 PRINT "come on man!everybody likes cookies!"
 END IF
+
+INPUT "are you on a dairy free routine?",
+answer$
+IF answer$ = "yes" THEN
+PRINT "so that's why you didn't eat the cookie."
+
+IF answer$ "no" THEN
+PRINT "neither am I!"
+END IF
