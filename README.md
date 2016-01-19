@@ -1,1 +1,1 @@
-# computer-friend-2
+PRINT ¨lol¨
