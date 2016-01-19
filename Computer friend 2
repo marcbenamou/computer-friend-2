@@ -1,0 +1,19 @@
+INPUT "what is your name?",  name$
+PRINT "Hello, ";name$
+INPUT "Do you want to be my friend?",
+answer$
+IF answer$ = "yes" THEN
+PRINT "yay"
+
+IF answer$ = "no" THEN
+PRINT "Dang it!Nobody likes me!"
+END IF
+
+INPUT "Do you want a cookie?",
+answer$
+IF answer$ "yes" THEN
+PRINT "Here you go.By the way its pixelated!"
+
+IF answer$ = "no" THEN
+PRINT "come on man!everybody likes cookies!"
+END IF
