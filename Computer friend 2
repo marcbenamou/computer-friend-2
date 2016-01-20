@@ -26,3 +26,40 @@ PRINT "so that's why you didn't eat the cookie."
 IF answer$ "no" THEN
 PRINT "neither am I!"
 END IF
+
+INPUT "do you want to be friends now?",answer$
+
+IF answer$ "yes" THEN
+PRINT "HIP HIP HORAY"
+
+IF answer$ "no" THEN
+PRINT "come on man"
+END IF
+
+PRINT "lets go play outside"
+INPUT "or do you want to play video games?",answer$
+
+IF answer$ "outside" THEN
+PRINT "sure"
+
+IF answer$ "video games" THEN
+PRINT "thats fine to"
+END IF
+
+INPUT "do you want some water ";name$,answer$
+
+IF answer$ "yes" THEN
+PRINT "here is your water"
+
+IF answer$ "no" THEN
+PRINT "I am thirsty"
+END IF
+
+INPUT "do you want to eat at mcdonalds?",answer$
+
+IF answer$ "yes" THEN
+PRINT "lets get in the car"
+
+IF answer$ "no" THEN
+PRINT "I will make hotdoges"
+END IF
