@@ -101,3 +101,5 @@ PRINT "lets get in the car"
 IF answer$ = "no" THEN
 PRINT "we should play with legos"
 END IF
+
+PRINT "I hope you liked computer friend!More code coming soon"
