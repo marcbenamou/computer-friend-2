@@ -63,3 +63,41 @@ PRINT "lets get in the car"
 IF answer$ "no" THEN
 PRINT "I will make hotdoges"
 END IF
+
+PRINT "I am tired."
+
+PRINT "you shower first.I will get some cookies!"
+
+PRINT "im back.are you done showering?"
+
+PRINT "no."
+
+PRINT tonight you get your own room!"
+
+PRINT "get dressed we are watching a movie!"  
+
+INPUT "do you want to watch how to train your dragon or the lego movie",answer$
+
+IF answer = "the lego movie" THen
+PRINT "everything is awsome"
+
+IF answer$ = "how to train your dragon" THEN
+PRINT "lets light it up!"
+
+INPUT "do you want breakfest?",answer$
+
+IF answer$ = "yes" THEN
+PRINT "I will make some toast!"
+
+IF answer$ = "no" THEN
+PRINT "I am hungry!"
+END IF
+
+PRINT "do you want to go to the park?",answer$
+
+IF answer$ = "yes' THEN
+PRINT "lets get in the car"
+
+IF answer$ = "no" THEN
+PRINT "we should play with legos"
+END IF
